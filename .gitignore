@@ -37,3 +37,4 @@ practicas/target/classes/META-INF/maven/com.microservicios/practicas/pom.propert
 practicas/target/classes/META-INF/maven/com.microservicios/practicas/pom.xml
 practicas/target/test-classes/com/microservicios/practicas/PracticasApplicationTests.class
 .metadata/.lock
+/.metadata/
